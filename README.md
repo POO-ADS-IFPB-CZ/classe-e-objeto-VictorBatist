@@ -1,15 +1,17 @@
-<h1 align="center"> Exercicio Java 2 ☕ </h1>
-<h3>Professor:</h3>
+<h1 align="center"> Exercicios de Introdução ao Java 2 ☕ </h1>
 <h3>Aluno: João Victor Batista de Souza</h3>
+<h3>Professor: Francisco Paulo de Freitas</h3>
+<br>
 
 <h2 align="center">Exercícios da pagina 78 a 81 do Livro Introdução à Programação Orientada a Objetos</h2>
 <h4 align="center">dos autores Batista & Moraes</h4>
+<br>
+
 
 <p><b>Questão 1.</b></p>
-<p>Modelo de Lâmpada</p>
 
 <table>
-<caption>model Lampada</caption>
+<caption>Modelo Lâmpada</caption>
 <thead>
     <tr>
       <th>Tipo</th>
@@ -56,7 +58,7 @@ double preco;
 
 }
 ```
-
+>codigo da class Lampada
 
 
 
