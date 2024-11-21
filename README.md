@@ -8,11 +8,10 @@
 <br>
 
 
-<h2>Questão 1</h2>  
+<h2 align="center">Questão 1</h2>
 
-<table>
-<caption>Modelo Lâmpada</caption>
-<thead>
+<table align="center">
+<thead> 
     <tr>
         <th>Tipo</th>
         <th>Nome Variavel</th>
@@ -68,17 +67,32 @@ private double preco;
 >codigo da class Lampada
 
 <br>
-<h2>Questão 4</h2>
+<h2 align="center">Questão 4</h2>
 <br>
 
->ir no repositorio na seguinte rota/caminho de pastas src > model > Questa4.java
+>ir no repositorio na seguinte rota/caminho de pastas src > Questao4 > Questa4.java
 
 <br>
-<h2>Questão 7</h2>
+<h2 align="center">Questão 7</h2>
+<img src="./assets/image/Questao7.png"> 
 <br>
 
 <br>
-<h2>Questão 8</h2>
+<h2 align="center">Questão 8</h2>
+<img src="./assets/image/Questao 8.png"> 
+<br>
+
+<br>
+<h2 align="center">Questao 13</h2>
+<br>
+
+>ir no repositorio na seguinte rota/caminho de pastas src > Questao13 > Main.java e as demais classes
+
+<br>
+<h2 align="center">Questão 14</h2>
+
+>O encapsulamento desempenha um papel crucial na definição de classes, ele pode restringir o acesso direto a certos atributos ou métodos, com isso tendo um controle através dos gets e sets, protegendo assim os atributos internos
+
 <br>
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/4j22Em04)
